@@ -1,0 +1,25 @@
+#body{
+  display: flex;
+  justify-content: center;
+  background-color: #210000;
+}
+
+
+
+#conteneur
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 600px;
+    background-image:url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+
+
+#oiseau{
+  width:60px;
+}
